@@ -1,5 +1,5 @@
 # **Pupil Analysis Interface (PAI)** 
-PAI is a graphic user interface (GUI) used to view free-viewing (FV) participant data. 
+PAI is a graphical user interface (GUI) used to view free-viewing (FV) participant data. 
 
 Purpose of project, description, etc here
 
