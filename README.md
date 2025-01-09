@@ -1,5 +1,5 @@
 # **Pupil Analysis Interface (PAI)** 
-created by Jaspreet Dodd
+PAI is a graphic user interface (GUI) used to view free-viewing (FV) participant data. 
 
 Purpose of project, description, etc here
 
